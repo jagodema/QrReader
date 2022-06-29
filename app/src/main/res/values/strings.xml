@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">QrReader</string>
+    <string name="generateQr">Generate QR</string>
+    <string name="itqr">Put text</string>
+    <string name="saveqr">Save on device</string>
+    <string name="ira">Would you like to go to</string>
+    <string name="si">Yes</string>
 </resources>

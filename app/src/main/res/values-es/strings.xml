@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QrReader</string>
+    <string name="generateQr">Generar QR</string>
+    <string name="itqr">Introduce texto</string>
+    <string name="saveqr">Guardar en el dispositivo</string>
+    <string name="ira">¿Quieres ir a</string>
+    <string name="si">Sí</string>
+</resources>
