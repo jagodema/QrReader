@@ -100,7 +100,6 @@ class GenerateQR : AppCompatActivity() {
 
         fos?.use {
             bitmap.compress(Bitmap.CompressFormat.JPEG, 100, it)
-            println("Inserted")
         }
     }
 }
